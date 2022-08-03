@@ -23,7 +23,7 @@ You can view your bookmarks by clicking on the extension at the top right corner
 In the bookmarks list, click on play to play the video from that timestamp and click on delete to delete a bookmark. 
 
 ## Screenshots
-<center><img src="./assets/ss1" alt="logo"></center>
-<center><img src="./assets/ss2" alt="logo"></center>
-<center><img src="./assets/ss3" alt="logo"></center>
-<center><img src="./assets/ss4" alt="logo"></center>
+<center><img src="assets/ss1" alt="logo"></center>
+<center><img src="assets/ss2" alt="logo"></center>
+<center><img src="assets/ss3" alt="logo"></center>
+<center><img src="assets/ss4" alt="logo"></center>
